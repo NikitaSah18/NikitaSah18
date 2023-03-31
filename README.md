@@ -1,4 +1,4 @@
-### Узучить
+
 <img src="https://img.shields.io/badge/.NET-8b00ff?style=for-the-badge&logo=.net&logoColor=ЦВЕТ ЛОГОТИПА"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=for-the-badge&logo=/Microsoft SQL Server&logoColor=000000"/>
